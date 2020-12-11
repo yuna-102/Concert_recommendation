@@ -27,9 +27,13 @@
   <div>
   <img width="600" src="https://user-images.githubusercontent.com/61009073/101893880-b7fa0780-3be8-11eb-94c8-2c7b9be50ed7.png">
   </div>
+  
 - 자동화
   - 공연장 DB, 전국 인구통계 데이터와 연동
   - 공연장 이름 입력시 근처의 인구 특성을 자동 추출
+  <div>
+  <img width="600" src="https://user-images.githubusercontent.com/61009073/101896633-9dc22880-3bec-11eb-8a6d-f84f7ca59d59.png">
+  </div>
 
 ## Implications
 - 대부분의 경우 평일과 주말에 권장되는 공연의 종류가 상이함
